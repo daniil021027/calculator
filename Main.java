@@ -1,4 +1,4 @@
-package ru.ac.uniyar.mf.tumantsev.summer;
+package ru.ac.uniyar.mf.bespokoev.summer;
 
 import java.util.Scanner;
 
